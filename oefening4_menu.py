@@ -17,14 +17,14 @@ def start_program():
 
     while flag:
         input_value = input(
-            "Typ 'a' voor optie a, typ 'b' voor optie b. Typ 't' om terug te gaan. Typ 'exit' om te stoppen.")
+            "Typ 'a' voor optie a, typ 'b' voor optie b. Typ 't' om terug te gaan. Typ 's' om te stoppen.")
         if input_value == "a":
             print("Dit is optie a")
             flag = False
         elif input_value == "b":
             print("Dit is optie b")
             flag = False
-        elif input_value == "exit":
+        elif input_value == "s":
             exit()
             flag = False
         elif input_value == "t":
