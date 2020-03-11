@@ -10,6 +10,9 @@ class Hero:
     def setHealth(self, new_health):
         self.health = new_health
 
+    def setItem(self, nieuw_item):
+        self.item = nieuw_item
+
     def setAttack(self, new_attack):
         self.attack = new_attack
 
@@ -71,6 +74,7 @@ def start_spel():
     gekozen_wapen = Item(item_naam, item_attack, item_defense)
     new_Hero.setHealth(new_Hero.health + gekozen_wapen.defense)
     new_Hero.setAttack(new_Hero.attack + gekozen_wapen.attack)
+    new_Hero.setItem(item_naam)
     ##########################
     next_action = input("Wil je het spel beginnen? (y/n)")
     if next_action == "y":

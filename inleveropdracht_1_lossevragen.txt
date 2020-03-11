@@ -1,0 +1,8 @@
+Is dit een testvraag?|Open|Idk|Ja|Jud
+Is dit een testvraag????|Open|Idk|Ja|Jud
+Hoeveel hoeken heeft een zeshoek?|Open|['Wiskunde', 'Vormen']|6|Judith2
+Welke vorm heeft een voetbal?|Open|['Voetbal', 'Vormen']|Rond|Judith
+Hoeveel hoeken heeft een vierkant?|Open|['Vormen']|4|Judith
+Hoeveel hoeken heeft een driehoek?|Open|['Vormen']|3|Judith
+Hoeveel hoeken heeft een cirkel;|Open|['Vormen']|0|Judith
+Welke vorm heeft 4 hoeken?|Open|['Vormen']|Vierkant|Judith
