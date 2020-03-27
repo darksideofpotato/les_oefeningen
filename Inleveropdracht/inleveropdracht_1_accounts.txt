@@ -1,7 +1,3 @@
-
-
-Judith 30
-Hans 70
-Judirth 0
-jUDITH 0
-s 70
+Hans|70|2|0
+Judith|20|3|['Is dit een testvraag?', 'Hoeveel hoeken heeft een zeshoek?', 'Is dit een vraag?', 'Welke kleur heeft de huisstijl van Jumbo?', 'Wat is 1+2?', 'Wat is 1+2?']
+Piet|0|0|['Welke formule 1 coureur komt veel voor in de Jumbo reclames?', 'Welke formule 1 coureurs rijden op dit moment voor Ferrari?']

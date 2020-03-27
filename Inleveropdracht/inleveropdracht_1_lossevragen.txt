@@ -1,8 +1,13 @@
-Is dit een testvraag?|Open|Idk|Ja|Jud
-Is dit een testvraag????|Open|Idk|Ja|Jud
-Hoeveel hoeken heeft een zeshoek?|Open|['Wiskunde', 'Vormen']|6|Judith2
+Hoeveel hoeken heeft een zeshoek?|Open|['Wiskunde', 'Vormen']|6|Hans
 Welke vorm heeft een voetbal?|Open|['Voetbal', 'Vormen']|Rond|Judith
 Hoeveel hoeken heeft een vierkant?|Open|['Vormen']|4|Judith
 Hoeveel hoeken heeft een driehoek?|Open|['Vormen']|3|Judith
 Hoeveel hoeken heeft een cirkel;|Open|['Vormen']|0|Judith
 Welke vorm heeft 4 hoeken?|Open|['Vormen']|Vierkant|Judith
+Welke kleur heeft het logo van de AH|Open|['Supermarkten', 'Algemeen']|Blauw|Judith
+Is dit een testvraag??|Open|['Algemeen']|Ja|Hans
+Welke kleur heeft de huisstijl van Jumbo?|Open|['Supermarkten', 'Algemeen']|Geel|Judith
+Wat is 1+2?|open|['Algemeen', 'Rekenen']|3|Judith
+Welke supermarkt is bekend van de kreet "hamsteren!"?|open|['Supermarkten', 'Algemeen']|Albert Heijn |Piet
+Welke formule 1 coureur komt veel voor in de Jumbo reclames?|open|['Supermarkten', 'Algemeen', 'Formule 1']|Max Verstappen|Piet
+Welke formule 1 coureurs rijden op dit moment voor Ferrari?|open|['Algemeen', 'Formule 1']|Vettel en Leclerc|Piet
